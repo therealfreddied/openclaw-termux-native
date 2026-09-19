@@ -28,13 +28,13 @@ No root, no proot, no container reboot — full filesystem access and instant su
 
 ## Install
 ```bash
-git clone [https://github.com/therealfreddied/openclaw-termux-native](https://github.com/therealfreddied/openclaw-termux-native)
+git clone https://github.com/therealfreddied/openclaw-termux-native
 cd openclaw-termux-native
 bash install.sh
 ```
 or one-shot:
 ```bash
-curl -fsSL [https://raw.githubusercontent.com/therealfreddied/openclaw-termux-native/refs/heads/main/install.sh](https://raw.githubusercontent.com/therealfreddied/openclaw-termux-native/refs/heads/main/install.sh) | bash
+curl -fsSL https://raw.githubusercontent.com/therealfreddied/openclaw-termux-native/refs/heads/main/install.sh | bash
 ```
 Then:
 ```bash
